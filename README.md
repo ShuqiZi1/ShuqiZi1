@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I’m Shuqi
 
-<!--
-**ShuqiZi1/ShuqiZi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Research Student @ University of Cambridge
+- Dynamic graphs & sequence/state-space models for healthcare time-series prediction
+- Also interested in LLM safety & compliance (AML/CFT)
+- 🔗 Reach me: [Email](mailto:zsqrachel@outlook.com) · [LinkedIn](https://www.linkedin.com/in/shuqi-zi-85061322b/) · [Google Scholar](https://scholar.google.com/citations?user=W6Og4rMAAAAJ)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|  |  |
+|---|---|
+| ![Shuqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuqiZi1&show_icons=true&hide_title=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuqiZi1&layout=compact) |
+
+---
+
+### 📝 Recent
+- *Bridging Graph and State-Space Modeling for ICU Length of Stay Prediction* (NeurIPS 2025 GenAI4Health Workshop) — [arXiv:2508.17554](https://arxiv.org/abs/2508.17554)
