@@ -9,7 +9,7 @@
 
 |  |  |
 |---|---|
-| ![Shuqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuqiZi1&show_icons=true&hide_title=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuqiZi1&layout=compact) |
+| ![Shuqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuqiZi1&show_icons=true&hide_title=true&cache_seconds=86400) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuqiZi1&layout=compact&cache_seconds=21600) |
 
 ---
 
